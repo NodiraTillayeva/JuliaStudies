@@ -5,5 +5,5 @@
 
 [Julia Cheatsheets](https://cheatsheet.juliadocs.org/)
 
+[YouTube tutorials](https://www.youtube.com/watch?v=0oChN11wf_4&list=PLhQ2JMBcfAsi_3g2AFJ6B84d8c5jw5kXp&ab_channel=doggodotjl)
 
-https://www.youtube.com/watch?v=0oChN11wf_4&list=PLhQ2JMBcfAsi_3g2AFJ6B84d8c5jw5kXp&ab_channel=doggodotjl
